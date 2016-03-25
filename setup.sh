@@ -113,7 +113,7 @@ echo
 
 echo "Installing Eth intelligence api"
 cd ~
-git clone https://github.com/cubedro/eth-net-intelligence-api
+git clone https://github.com/expanse-org/eth-net-intelligence-api
 cd eth-net-intelligence-api
 npm install
 sudo npm install -g pm2
