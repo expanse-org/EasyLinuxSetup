@@ -130,3 +130,9 @@ echo
 #echo
 #echo
 echo "Fin!"
+cd ~
+cd eth-net-intelligence-api
+perl -pi -e "s/Expanse/$(hostname)/g" app.json
+/usr/bin/pm2 start ./app.json
+sleep 3
+/usr/bin/gexp --rpc
