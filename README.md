@@ -1,4 +1,4 @@
-![Expanse-Azure](https://raw.githubusercontent.com/expanse-org/EasyLinuxSetup/master/go-expanse-on-ubuntu/images/expanse_logo_square_white.jpg)
+![Expanse-Azure](https://raw.githubusercontent.com/expanse-org/EasyLinuxSetup/master/images/expanse_logo_square_white.jpg)
 
 # EasyLinuxSetup
 ## One-click deploy scripts
